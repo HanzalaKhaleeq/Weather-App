@@ -134,7 +134,7 @@ body {
 
 @media (max-width: 480px) {
     .search {
-        flex-direction: column;
+        flex-direction: row;
         gap: 10px;
     }
     .search {
