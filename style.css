@@ -139,12 +139,12 @@ body {
     }
 
     .search input {
-        width: 100%;
+        width: 60%;
         margin-right: 0;
     }
 
     .search button {
-        width: 100%;
+        width:30%;
         height: 50px;
         border-radius: 30px;
     }
