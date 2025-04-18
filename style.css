@@ -140,7 +140,7 @@ body {
 
     .search input {
         width: 60%;
-        margin-right: 0;
+        margin-right:-10px;
     }
 
     .search button {
